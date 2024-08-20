@@ -1,0 +1,33 @@
+.dropdown > button {
+  background-color: white;
+  color: black;
+  min-width: 201px;
+  border: none;
+}
+
+.dropdown > button:hover {
+  background-color: white;
+  color: black;
+}
+
+.searchCard {
+  background-color: lightblue;
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+.flight-card:hover {
+  background-color: #f8f8f8;
+}
+
+.diabled-card {
+  background-color: #f8f8f8;
+}
+
+.thank-you-card {
+  background-color: lightblue;
+  min-height: 500px;
+  padding-top: 80px !important;
+}
