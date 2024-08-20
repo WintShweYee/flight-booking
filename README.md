@@ -56,7 +56,7 @@ npm run start
 ```
 The application is accessible on ``http://localhost:3000``
 
-
+# Data
 To see flight data, please choose this flight
 ```shell
 From => Bangkok
