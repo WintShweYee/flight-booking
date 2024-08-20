@@ -25,6 +25,9 @@ You can run the following command from the terminal.
 npx sequelize-cli db:migrate
 npx sequelize-cli db:seed:all
 
+#run testing
+npm run test
+
 #server start
 npm start
 ```
